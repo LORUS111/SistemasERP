@@ -2,7 +2,7 @@
 ---
 # Diagrama de Flujo de Requerimientos Funcionales
 
-Puedes ver la estructura y el flujo de los requerimientos funcionales en el siguiente diagrama:
+Estructura y el flujo de los requerimientos funcionales en diagrama:
 
 ```mermaid
 graph LR

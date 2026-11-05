@@ -1,17 +1,5 @@
 # Gestión de Socios de Negocio (Business Partners) - SAP Business One
-
-Este documento contiene la estructura lógica y los requerimientos funcionales para la gestión de Socios de Negocio en SAP Business One.
-
-# Acerca del Proyecto
-El objetivo de este proyecto es estandarizar y documentar el ciclo de vida y la configuración de los socios comerciales, abarcando áreas clave como:
-* Clasificación y Tipos de Socios
-* Datos Maestros e Identificación
-* Gestión de Direcciones y Contactos
-* Información Financiera y Comercial
-* Conversión de Leads
-
 ---
-
 # Diagrama de Flujo de Requerimientos Funcionales
 
 Puedes ver la estructura y el flujo de los requerimientos funcionales en el siguiente diagrama:
